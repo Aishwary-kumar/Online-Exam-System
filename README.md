@@ -1,3 +1,5 @@
+Online examination system
+
 System - Java Project Overview The Online Exam System is a Java-based application designed to allow users to take online exams in a secure and user-friendly environment. The system enables administrators to manage exams, create questions, and evaluate user performance, while students can take exams, view their results, and track their progress.
 
 Features User authentication (Student and Admin roles). Admin panel for creating and managing exams and questions. Timed exam sessions for students. Automatic grading and result generation. Exam history and performance tracking for students. Secure login and session management. Requirements To run this project, the following tools and technologies are required:
