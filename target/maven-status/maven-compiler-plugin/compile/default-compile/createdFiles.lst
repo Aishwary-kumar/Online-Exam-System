@@ -1,0 +1,5 @@
+com/exam/repository/UserRepository.class
+com/exam/service/ExamService.class
+com/exam/controller/ExamController.class
+com/exam/model/User.class
+com/exam/controller/UserRegistrationController.class
